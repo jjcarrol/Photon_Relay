@@ -8,3 +8,5 @@ To set up
 4. In preferences of the new device add you photons token and device ID
 5. In preferences tell smartthings which relay it will control.
 6. Code is all setup for use with eagle relay board see zip file for eagle board. 
+
+You will need to use Pollster - The SmartThings Polling Daemon, Please visit [https://github.com/statusbits/smartthings] in order to poll the status of the relays, as polling in Smartthing is unreliable. 

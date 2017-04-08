@@ -1,5 +1,5 @@
-# Photon_Relay
-Allows Smartthings to control a Particle Photon (spark core) as a 8 relay switch
+# Photon_Relay2
+Allows Smartthings to control a Particle Photon (spark core) as a 8 relay switch, (included polling states, and detecting if core is offline)
 
 To set up 
 1. Put the INO code on your Photon
